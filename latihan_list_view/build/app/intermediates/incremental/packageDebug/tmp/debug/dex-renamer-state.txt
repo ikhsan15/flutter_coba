@@ -1,0 +1,4 @@
+#Sat Aug 29 15:45:05 ICT 2020
+base.0=D\:\\project\\latihan_list_view\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
