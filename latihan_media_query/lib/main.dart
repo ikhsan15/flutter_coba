@@ -37,44 +37,30 @@ class MainPage extends StatelessWidget {
 
   List<Widget> generateContainers() {
     return [
-      ListView(
-        children: [
-          Container(
-            color: Colors.red,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.green,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.blue,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.brown,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.yellow,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.purple,
-            width: 100,
-            height: 100,
-          ),
-          Container(
-            color: Colors.grey,
-            width: 100,
-            height: 100,
-          ),
-        ],
+      Container(
+        color: Colors.red,
+        width: 100,
+        height: 100,
+      ),
+      Container(
+        color: Colors.green,
+        width: 100,
+        height: 100,
+      ),
+      Container(
+        color: Colors.blue,
+        width: 100,
+        height: 100,
+      ),
+      Container(
+        color: Colors.brown,
+        width: 100,
+        height: 100,
+      ),
+      Container(
+        color: Colors.yellow,
+        width: 100,
+        height: 100,
       ),
     ];
   }
