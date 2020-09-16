@@ -1,0 +1,4 @@
+#Wed Sep 09 11:16:49 ICT 2020
+base.0=D\:\\BELAJAR\\flutter_coba\\latihan_custom_card\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
